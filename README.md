@@ -39,5 +39,7 @@ j) fractal dimension ("coastline approximation" - 1)
 Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
+![image](https://user-images.githubusercontent.com/45824743/120284948-69e1d900-c2da-11eb-88e0-5e2c400b40b4.png)
+
 
 
