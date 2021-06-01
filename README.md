@@ -9,10 +9,10 @@ Breast Cancer Wisconsin datasets has 569 observations or Rows and 33 atttibutes 
 Attribute Information:
 
 1) ID number
-2) 
-3) Diagnosis (M = malignant, B = benign)
-4) 
-5) 32
+ 
+2) Diagnosis (M = malignant, B = benign)
+ 
+3) 32
 
 Ten real-valued features are computed for each cell nucleus:
 
@@ -37,3 +37,7 @@ i) symmetry
 j) fractal dimension ("coastline approximation" - 1)
 
 Missing attribute values: none
+
+Class distribution: 357 benign, 212 malignant
+
+
