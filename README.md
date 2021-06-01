@@ -53,6 +53,8 @@ Output layer having 1 output followed by Sigmoid activation function.
 
 After building the model used adam Optimizer to change the attributes of th neural Network such as weights and learning rate to resuced the Losses.
 
+### Results
+
 By Training my model on training data evaluate the model:
 ![image](https://user-images.githubusercontent.com/45824743/120286690-28522d80-c2dc-11eb-885f-9453d1dbaa12.png)
 
